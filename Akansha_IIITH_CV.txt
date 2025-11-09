@@ -1,0 +1,106 @@
+AKANSHA SRIVASTAVA
+PhD in Bioinformatics, IIIT Hyderabad
+akansha20aug@gmail.com
++917464083619
+Research Profile
+Research Experience
+PhD Researcher
+ Hyderabad
+ Aug 2020 – June 2025
+Investigated the molecular characteristics of gynecologic and breast cancers using bulk multi-omics, single-cell RNA-seq, and spatial transcriptomics data, with a particular emphasis on metabolic reprogramming.
+•
+Identified metabolic subtypes of endometrial cancer and characterized them using clinical, transcriptomic, and genomic features, including somatic mutations and copy number variations.
+•
+Education
+PhD scholar specializing in computational systems biology and cancer research, with expertise in multi-omics data integration, deep learning, and single-cell/spatial transcriptomics. Interested in developing data-driven frameworks to understand complex biological systems and diseases, including cancer.
+PhD in Bioinformatics
+ Hyderabad
+ Aug 2020 – June 2025
+IIIT Hyderabad   
+Thesis Title: Uncovering the Molecular Landscape of Gynecologic and Breast Cancers from Bulk Omics to Single Cell and Spatial Transcriptomics
+•
+Advisor: Dr Vinod P K
+•
+MSc in Bioinformatics   
+Varanasi
+July 2018 – Nov 2020
+Banaras Hindu University (BHU)
+•
+MSc Project:  Genome-wide analysis of codon usage bias in SARS-CoV-2 
+•
+Department Rank #2
+BSc in Physics   
+Patna
+July 2014 – May 2017
+•
+University Rank #1 - Gold Medal
+Patna University
+IIIT Hyderabad   
+IISER Kolkata  Summer Research Program 2019
+Proposed a single-cell network approach to characterize metabolic heterogeneity and uncover regulatory programs involved in  driving metabolic reprogramming in gynecologic and breast cancers.
+•
+Uncovered transcriptional landscape of hallmark pathways in the tumor microenvironment of high grade serous ovarian cancer using spatial transcriptomics.
+•
+ Kolkata
+ May 2019 – July 2019
+Worked in ROC (RNA, Origins & Complexity) group headed by Professor Supratim Sengupta.
+•
+Project involved study of the evolutionary pattern of tRNA modifications in mitochondrial genome. We used annotated sequence data from UniProt database to detect modi cations over protein sequence data of eukaryote from NCBI.
+•
+Research Intern
+Implemented graph-based deep learning framework for cancer subtype identification and prognosis prediction using multi-omics data.
+•
+Publications
+Srivastava A, P. K. Vinod, A single-cell network approach to decode metabolic regulation in gynecologic and breast cancers, npj Systems Biology and Applications 11.1 (2025): 26.
+•
+Jose A, Srivastava A, Ansari A, P. K. Vinod, DeepGraphMut: A graph-based deep learning method for cancer prognosis using somatic mutation profile, Briefings in Bioinformatics, Volume 26, Issue 4, 2025, bbaf409.
+•
+Srivastava A, P. K. Vinod, Identification and characterization of metabolic subtypes of endometrial cancer using a systems-level approach, Metabolites 13.3 (2023): 409.
+•
+Srivastava A, P. K. Vinod, Deciphering Spatially Resolved Pathway Heterogeneity in Ovarian Cancer Post-Neoadjuvant Chemotherapy, bioRxiv, 2025, https://www.biorxiv.org/content/10.1101/2025.08.08.669449v1.
+•
+Jain S, Srivastava A, P. K. Vinod, Somatic mutation-based stratification of an Indian breast cancer cohort, 2025 (under preparation).
+•
+
+Conference Presentations
+Srivastava A, Jose A, P. K. Vinod, “A Graph-Based Deep Learning Approach for Cancer Subtype Identification and Prognosis”, at 23rd International Conference on Systems Biology (ICSB), IIT Bombay, December 1-5, 2024.
+•
+Srivastava A, P. K. Vinod, “Network-based Metabolic Characterization & Drug Repurposing using the Omics Data of Endometrial Cancer”, at Network Biology conference, Cold Spring Harbor Laboratory, New York, March 14 - 18, 2023 (virtual).
+•
+Srivastava A, P. K. Vinod, “Deciphering Metabolic Landscape of Gynecologic and Breast Cancers: A Single-Cell Network Perspective”, at RECOMB/ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges (RSGDREAM), Madison, Wisconsin, October 1-3, 2024 (virtual).
+•
+Srivastava A, P. K. Vinod, “Deciphering Metabolic Heterogeneity in Endometrial Cancer: A Systems-Level Approach”, at 4th Indian Cancer Genome Atlas (ICGA) Conference, IISER Pune, October 6-8, 2023.
+•
+Teaching Experience
+Additional Information
+2020
+Qualified GATE 2020 with All India Rank 914 (Score 437) in Biotechnology Paper
+2019
+Awarded Elite+Gold certificate for performance in Data Science for Engineers course by NPTEL  
+2017
+Received Gold medal from Patna University for securing 1st rank at undergraduate level
+2014-17
+Received Platinum Jubilee Scholarship by Patna Womens College for academic performance
+2019
+Awarded Elite+Gold certificate for performance in Data Mining course by NPTEL
+Mentored and supervised master’s students on research projects involving study design, data analysis, and thesis writing.
+•
+Teaching Assistant for Introduction to Biology during the monsoon semester for three consecutive years (2022-24).
+•
+Contributed to assignment design, conducted tutorials, and graded students through assignments, quizzes, and semester examinations.
+•
+Technical Skills
+Programming: Python, R, Bash, C 
+•
+Single-cell & Spatial Analysis: Seurat, SingleCellExperiment, Scanpy, Squidpy, pyscenic
+•
+Network Analysis: Cytoscape, NetworkX, igraph
+•
+Data Analysis & Visualization: Pandas, NumPy, dplyr, ggplot2, matplotlib, seaborn
+•
+Machine Learning & Deep Learning: scikit-learn, Biopython, PyTorch Geometric
+•
+Bioinformatics: DESeq2, limma, fgsea, GSEApy
+•
+Srivastava A, P. K. Vinod, “Deciphering the Spatially Resolved Transcriptional Landscape of the Tumor Microenvironment in Chemotherapy-Treated Ovarian Cancer”, at Genomics India Conference, IISc Bengaluru, August 12-14, 2025.
+•

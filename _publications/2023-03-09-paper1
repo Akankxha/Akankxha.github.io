@@ -3,12 +3,13 @@ title: "Identification and Characterization of Metabolic Subtypes of Endometrial
 collection: publications
 category: manuscripts
 permalink: /publication/2023-03-09-paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Endometrial cancer (EC) is the most common gynecological cancer worldwide. Understanding metabolic adaptation and its heterogeneity in tumor tissues may provide new insights and help in cancer diagnosis, prognosis, and treatment. In this study, we investigated metabolic alterations of EC to understand the variations in metabolism within tumor samples. Integration of transcriptomics data of EC (RNA-Seq) and the human genome-scale metabolic network was performed to identify the metabolic subtypes of EC and uncover the underlying dysregulated metabolic pathways and reporter metabolites in each subtype. The relationship between metabolic subtypes and clinical variables was explored. Further, we correlated the metabolic changes occurring at the transcriptome level with the genomic alterations. Based on metabolic profile, EC patients were stratified into two subtypes (metabolic subtype-1 and subtype-2) that significantly correlated to patient survival, tumor stages, mutation, and copy number variations. We observed the co-activation of the pentose phosphate pathway, one-carbon metabolism, and genes involved in controlling estrogen levels in metabolic subtype-2, which is linked to poor survival. PNMT and ERBB2 are also upregulated in metabolic subtype-2 samples and present on the same chromosome locus 17q12, which is amplified. PTEN and TP53 mutations show mutually exclusive behavior between subtypes and display a difference in survival. This work identifies metabolic subtypes with distinct characteristics at the transcriptome and genome levels, highlighting the metabolic heterogeneity within EC.
+Keywords: metabolic reprogramming; endometrial cancer; transcriptome; systems biology; reporter metabolites'
 date: 2023-03-09
-venue: 'Metabolites'
+venue: 'Metabolites (MDPI)'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Srivastava, A.; Vinod, P.K. Identification and Characterization of Metabolic Subtypes of Endometrial Cancer Using a Systems-Level Approach. Metabolites 2023, 13, 409. https://doi.org/10.3390/metabo13030409'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

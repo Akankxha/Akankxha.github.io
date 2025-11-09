@@ -1,0 +1,14 @@
+---
+title: "Paper Title Number 2"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-03-13-paper2
+excerpt: 'Cancer metabolism is characterized by significant heterogeneity, presenting challenges for treatment efficacy and patient outcomes. Understanding this heterogeneity and its regulatory mechanisms at single-cell resolution is crucial for developing personalized therapeutic strategies. In this study, we employed a single-cell network approach to characterize malignant heterogeneity in gynecologic and breast cancers, focusing on the transcriptional regulatory mechanisms driving metabolic alterations. By leveraging single-cell RNA sequencing (scRNA-seq) data, we assessed the metabolic pathway activities and inferred cancer-specific protein-protein interactomes (PPI) and gene regulatory networks (GRNs). We explored the crosstalk between these networks to identify key alterations in metabolic regulation. Clustering cells by metabolic pathways revealed tumor heterogeneity across cancers, highlighting variations in oxidative phosphorylation, glycolysis, cholesterol, fatty acid, hormone, amino acid, and redox metabolism. Our analysis identified metabolic modules associated with these pathways, along with their key transcriptional regulators. These findings provide insights into the complex interplay between metabolic rewiring and transcriptional regulation in gynecologic and breast cancers, paving the way for potential targeted therapeutic strategies in precision oncology. Furthermore, this pipeline for dissecting coregulatory metabolic networks can be broadly applied to decipher metabolic regulation in any disease at single-cell resolution.'
+date: 2025-03-13
+venue: 'npj Systems Biology and Applications'
+#slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://Akankxha.github.io/files/npjSystemsBiology_2025.pdf'
+citation: 'Srivastava, A., Vinod, P.K. A single-cell network approach to decode metabolic regulation in gynecologic and breast cancers. npj Syst Biol Appl 11, 26 (2025). https://doi.org/10.1038/s41540-025-00506-0'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

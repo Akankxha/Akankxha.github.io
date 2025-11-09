@@ -41,9 +41,9 @@ Research interests
 
 Selected publications
 ======
-- Srivastava, A.; Vinod, P.K. Identification and Characterization of Metabolic Subtypes of Endometrial Cancer Using a Systems-Level Approach. Metabolites 2023, 13, 409. [DOI](https://doi.org/10.3390/metabo13030409) — PDF: [/files/metabolites_2023.pdf](/files/metabolites_2023.pdf)
-- Srivastava, A.; et al. (2025). Integrative systems biology study. PDF: [/files/npjSystemsBiology_2025.pdf](/files/npjSystemsBiology_2025.pdf)
-- Srivastava, A.; et al. (2025). Review / methods article in Briefings in Bioinformatics. PDF: [/files/BriefingsInBioinformatics_2025.pdf](/files/BriefingsInBioinformatics_2025.pdf)
+- Srivastava A, P. K. Vinod, "Identification and characterization of metabolic subtypes of endometrial cancer using a systems-level approach", Metabolites 13.3 (2023): 409. [DOI](https://doi.org/10.3390/metabo13030409) — PDF: [/files/metabolites_2023.pdf](/files/metabolites_2023.pdf)
+- Srivastava A, P. K. Vinod, "A single-cell network approach to decode metabolic regulation in gynecologic and breast cancers", npj Systems Biology and Applications 11.1 (2025): 26. PDF: [/files/npjSystemsBiology_2025.pdf](/files/npjSystemsBiology_2025.pdf)
+- Jose A, Srivastava A, Ansari A, P. K. Vinod, "DeepGraphMut: A graph-based deep learning method for cancer prognosis using somatic mutation profile", Briefings in Bioinformatics, Volume 26, Issue 4, 2025, bbaf409. PDF: [/files/BriefingsInBioinformatics_2025.pdf](/files/BriefingsInBioinformatics_2025.pdf)
 
 Education
 ======

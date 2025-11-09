@@ -22,7 +22,7 @@ repository               : "Akankxha/Akankxha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Akansha Srivastava"
   pronouns         : # example: "she/her"  
   bio              : "PhD (Bioinformatics)"

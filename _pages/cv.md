@@ -11,13 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bioinformatics, IIIT Hyderabad, 2023
+* M.Tech in Bioinformatics, IIIT Hyderabad, 2018
+* B.Tech in Biotechnology, IIT Madras, 2016
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Research Scholar at IIIT Hyderabad (2018-2023)
+  * Conducted research on metabolic subtypes in cancer using systems biology approaches
+  * Developed computational methods for analyzing cancer genomics data
+  * Published research findings in peer-reviewed journals
+
+* Research Intern at IIT Madras (2015-2016)
+  * Worked on computational analysis of biological networks
+  * Developed algorithms for pathway analysis
+
+Skills
+======
+* Bioinformatics
+  * Next-generation sequencing data analysis
+  * Metabolic network analysis
+  * Systems biology
+* Programming
+  * Python
+  * R
+  * Shell scripting
+* Data Analysis
+  * Statistical analysis
+  * Machine learning
+  * Data visualization
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users

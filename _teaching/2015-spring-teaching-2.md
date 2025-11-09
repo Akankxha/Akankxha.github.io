@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Bioinformatics and Computational Biology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Course Teaching Assistant"
+permalink: /teaching/2022-spring-teaching-1
+venue: "IIIT Hyderabad, Department of Computational Biology"
+date: 2022-01-01
+location: "Hyderabad, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistant for graduate-level courses in Bioinformatics and Computational Biology. Responsibilities included:
+* Conducting tutorial sessions
+* Assisting students with programming assignments
+* Grading assignments and projects
+* Supporting students in understanding complex biological data analysis concepts

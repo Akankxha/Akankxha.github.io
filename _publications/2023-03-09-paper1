@@ -7,8 +7,6 @@ excerpt: 'Endometrial cancer (EC) is the most common gynecological cancer worldw
 date: 2023-03-09
 venue: 'Metabolites (MDPI)'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://Akankxha.github.io/files/metabolites_2023.pdf'
-#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+paperurl: 'https://doi.org/10.3390/metabo13030409'
 citation: 'Srivastava, A.; Vinod, P.K. Identification and Characterization of Metabolic Subtypes of Endometrial Cancer Using a Systems-Level Approach. Metabolites 2023, 13, 409. https://doi.org/10.3390/metabo13030409'
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+---, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-04-15-paper-bib
 excerpt: 'This paper presents a graph-based deep learning framework for cancer subtype identification and prognosis prediction using multi-omics data.'
-date: 2025-04-15
+date: 2025-08-15
 venue: 'Briefings in Bioinformatics'
 paperurl: '/files/BriefingsInBioinformatics_2025.pdf'
 citation: 'Jose A, Srivastava A, Ansari A, P. K. Vinod. DeepGraphMut: A graph-based deep learning method for cancer prognosis using somatic mutation profile. Briefings in Bioinformatics, Volume 26, Issue 4, 2025, bbaf409.'

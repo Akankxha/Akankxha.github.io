@@ -4,7 +4,7 @@ collection: teaching
 type: "Computational Systems Biology and Medicine Lab"
 permalink: /teaching/mentorship
 venue: "IIIT Hyderabad"
-#date: 2022-01-01
+date: 2025-01-01
 location: ""
 ---
 

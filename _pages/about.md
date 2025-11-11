@@ -14,13 +14,11 @@ I recently completed my Ph.D. in Bioinformatics under the supervision of Prof. V
 I am interested in developing computational frameworks for studying complex human diseases, including cancer.
 
 
-*Research interests*
-Cancer Systems Biology • Multi-omics Integration • Single-cell and Spatial Transcriptomics • Network Analysis • Deep Learning in Biology
-======
-- Cancer systems biology and metabolic network analysis
-- Transcriptome-driven modeling of metabolism
-- Integrative analysis of genomics, copy-number and mutation data
-- Machine learning and interpretable models for biomedical data
+**Research interests**
+- Systems biology and network analysis
+- Integrative analysis of omics data
+- Single-cell and spatial transcriptomics
+- Machine/Deep learning and interpretable models for biomedical data
 
 
 

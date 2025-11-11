@@ -1,10 +1,10 @@
 ---
 title: "Research Mentorship"
 collection: teaching
-type: ""
+type: "Computational Systems Biology and Medicine Lab"
 permalink: /teaching/mentorship
-venue: ""
-date: 2022-01-01
+venue: "IIIT Hyderabad"
+#date: 2022-01-01
 location: ""
 ---
 

@@ -3,9 +3,9 @@ title: "A single-cell network approach to decode metabolic regulation in gynecol
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-01-paper-npj
-excerpt: 'This paper presents a single-cell network approach to characterize metabolic heterogeneity and uncover regulatory programs involved in driving metabolic reprogramming in gynecologic and breast cancers.'
-date: 2025-03-01
+excerpt: 'Cancer metabolism is characterized by significant heterogeneity, presenting challenges for treatment efficacy and patient outcomes. Understanding this heterogeneity and its regulatory mechanisms at single-cell resolution is crucial for developing personalized therapeutic strategies. In this study, we employed a single-cell network approach to characterize malignant heterogeneity in gynecologic and breast cancers, focusing on the transcriptional regulatory mechanisms driving metabolic alterations. By leveraging single-cell RNA sequencing (scRNA-seq) data, we assessed the metabolic pathway activities and inferred cancer-specific protein-protein interactomes (PPI) and gene regulatory networks (GRNs). We explored the crosstalk between these networks to identify key alterations in metabolic regulation. Clustering cells by metabolic pathways revealed tumor heterogeneity across cancers, highlighting variations in oxidative phosphorylation, glycolysis, cholesterol, fatty acid, hormone, amino acid, and redox metabolism. Our analysis identified metabolic modules associated with these pathways, along with their key transcriptional regulators. These findings provide insights into the complex interplay between metabolic rewiring and transcriptional regulation in gynecologic and breast cancers, paving the way for potential targeted therapeutic strategies in precision oncology. Furthermore, this pipeline for dissecting coregulatory metabolic networks can be broadly applied to decipher metabolic regulation in any disease at single-cell resolution.'
+date: 2025-03-13
 venue: 'npj Systems Biology and Applications'
 paperurl: '/files/npjSystemsBiology_2025.pdf'
-citation: 'Srivastava A, P. K. Vinod. A single-cell network approach to decode metabolic regulation in gynecologic and breast cancers. npj Systems Biology and Applications 11.1 (2025): 26.'
+citation: 'Srivastava A, Vinod PK. A single-cell network approach to decode metabolic regulation in gynecologic and breast cancers. npj Systems Biology and Applications. 2025 Mar 13;11(1):26.'
 ---

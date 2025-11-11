@@ -14,7 +14,7 @@ I recently completed my Ph.D. in Bioinformatics under the supervision of Prof. V
 I am interested in developing computational frameworks for studying complex human diseases, including cancer.
 
 
-**Research interests**
+**Research Interests**
 - Systems biology and network analysis
 - Integrative analysis of omics data
 - Single-cell and spatial transcriptomics

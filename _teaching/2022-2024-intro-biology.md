@@ -1,16 +1,15 @@
 ---
-title: "Introduction to Biology Teaching Assistant"
+title: "Introduction to Biology"
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate course"
 permalink: /teaching/2022-2024-intro-biology
-venue: "IIIT Hyderabad, Department of Computational Biology"
+venue: "IIIT Hyderabad"
 date: 2022-08-01
 location: "Hyderabad, India"
 ---
 
 Teaching Assistant for Introduction to Biology during monsoon semesters (2022-2024):
-
-* Conducted tutorial sessions and helped with assignment design
-* Graded student assignments, quizzes, and semester examinations
-* Mentored and supervised master's students on research projects
-* Provided guidance on study design, data analysis, and thesis writing
+- Conducted tutorial sessions and helped with assignment design
+- Assisted students with programming assignments
+- Graded student assignments, quizzes, projects and semester examinations
+- Supported students in understanding biological concepts

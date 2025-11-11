@@ -9,13 +9,7 @@ redirect_from:
 
 You can download my CV using the link below:
 
-<p>
-  <a href="{{ site.baseurl }}/files/Akansha_Srivastava_CV.pdf" target="_blank" class="btn btn--primary">
-    📄 Download CV (PDF)
-  </a>
-</p>
-
-<!-- [📄 **Download CV (PDF)**]({{ site.baseurl }}/files/Akansha_Srivastava_CV.pdf){:target="_blank"} -->
+[📄 **Download CV (PDF)**]({{ site.baseurl }}/files/Akansha_Srivastava_CV.pdf){:target="_blank"}
 
 
 <!-- {% include base_path %}
@@ -99,5 +93,5 @@ PhD scholar specializing in computational systems biology and cancer research, w
 - Srivastava A, P. K. Vinod, "A single-cell network approach to decode metabolic regulation in gynecologic and breast cancers", npj Systems Biology and Applications 11.1 (2025): 26.
 - Jose A, Srivastava A, Ansari A, P. K. Vinod, "DeepGraphMut: A graph-based deep learning method for cancer prognosis using somatic mutation profile", Briefings in Bioinformatics, 2025, bbaf409.
 - Srivastava A, P. K. Vinod, "Identification and characterization of metabolic subtypes of endometrial cancer", Metabolites 13.3 (2023): 409.
-- Srivastava A, P. K. Vinod, "Deciphering Spatially Resolved Pathway Heterogeneity in Ovarian Cancer Post-Neoadjuvant Chemotherapy", bioRxiv (2025): https://www.biorxiv.org/content/10.1101/2025.08.08.669449v1 --> -->
+- Srivastava A, P. K. Vinod, "Deciphering Spatially Resolved Pathway Heterogeneity in Ovarian Cancer Post-Neoadjuvant Chemotherapy", bioRxiv (2025): https://www.biorxiv.org/content/10.1101/2025.08.08.669449v1 --> 
 

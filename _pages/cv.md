@@ -9,7 +9,13 @@ redirect_from:
 
 You can download my CV using the link below:
 
-[📄 **Download CV (PDF)**]({{ site.baseurl }}/files/Akansha_Srivastava_CV.pdf){:target="_blank"}
+<p>
+  <a href="{{ site.baseurl }}/files/Akansha_Srivastava_CV.pdf" target="_blank" class="btn btn--primary">
+    📄 Download CV (PDF)
+  </a>
+</p>
+
+<!-- [📄 **Download CV (PDF)**]({{ site.baseurl }}/files/Akansha_Srivastava_CV.pdf){:target="_blank"} -->
 
 
 <!-- {% include base_path %}
